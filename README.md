@@ -1,5 +1,12 @@
 # ShowDesktopOneMonitor
 
+## V2 版本增强
+- 增加开机启动
+- 管理员权限改为可选
+- 增加覆盖 Win+D 快捷键覆盖可切换
+<img width="284" height="163" alt="image" src="https://github.com/user-attachments/assets/16a04666-39fb-4cc5-92dc-5c6c9b4f0d33" />
+
+
 ## Description
 Adds abillity to Show Desktop (Win + D) only for One Monitor!
 Works exactly like Win + D does **plus additional features**:
