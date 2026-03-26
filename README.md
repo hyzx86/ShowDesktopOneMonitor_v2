@@ -1,8 +1,9 @@
 # ShowDesktopOneMonitor
 
+当你使用多个显示器时，Win+D 会将所有显示器切换到桌面，此工具允许你仅对当前光标所在显示器显示桌面（Win + D）的功能！
+
 ## Description
-Abillity to Show Desktop (Win + D) only for One Monitor!
-仅对一个显示器显示桌面（Win + D）的功能！
+
 
 
 ## V2 版本增强
@@ -12,6 +13,7 @@ Abillity to Show Desktop (Win + D) only for One Monitor!
 <img width="284" height="163" alt="image" src="https://github.com/user-attachments/assets/16a04666-39fb-4cc5-92dc-5c6c9b4f0d33" />
 
 
+Abillity to Show Desktop (Win + D) only for One Monitor!
 Works exactly like Win + D does **plus additional features**:
 - Shows desktop (minimizes all windows)
 - Restores windows to their previous states
