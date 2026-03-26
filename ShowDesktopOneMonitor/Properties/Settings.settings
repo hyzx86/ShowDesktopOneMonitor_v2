@@ -12,5 +12,11 @@
   &lt;KeyModifiers&gt;Shift&lt;/KeyModifiers&gt;
 &lt;/ArrayOfKeyModifiers&gt;</Value>
     </Setting>
+    <Setting Name="LaunchAtStartup" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UseWinD" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
   </Settings>
 </SettingsFile>
